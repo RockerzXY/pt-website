@@ -1,5 +1,5 @@
 <?php
-$link = mysqli_connect('127.0.0.1', 'root', '84957295', 'first');
+$link = mysqli_connect('db', 'root', 'kali', 'first');
 
 $id = $_GET['id'];
 $sql = "SELECT * FROM posts WHERE id=$id";

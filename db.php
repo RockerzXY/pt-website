@@ -1,8 +1,8 @@
 <?php
 
-$servername = "127.0.0.1";
+$servername = "db";
 $username = "root";
-$password = "84957295";
+$password = "kali";
 $dbName = "first";
 
 $link = mysqli_connect($servername, $username, $password);
