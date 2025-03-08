@@ -7,7 +7,7 @@
 Для развёртывания приложения выполните следующие шаги:
 1. Клонируйте репозиторий
   ```sh
-  git clone https://github.com/RockerzXY/website-pt-start/
+  git clone https://github.com/RockerzXY/pt-website
   cd website-pt-start
   ```
 2. Соберите Docker-образ:
